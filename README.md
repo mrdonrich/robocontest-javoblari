@@ -1,2 +1,4 @@
 # robocontest-javoblari
-bu repositda javoblar mavjud
+Bu repositda javoblar mavjud
+Assalomu alaykum. 
+Siz ushbu darsda Robocontest javoblarini topishingiz mumkin.
